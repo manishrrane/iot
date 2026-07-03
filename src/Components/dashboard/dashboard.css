@@ -1,0 +1,19 @@
+body{
+    background: #FAF6F0;
+    font-family: Arial, sans-serif;
+}
+
+.header{
+    text-align: center;
+    color: #5C5470;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    gap: 20%;
+}
+
+.data{
+    color: #B76E79;
+}
